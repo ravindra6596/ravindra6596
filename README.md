@@ -7,7 +7,7 @@
 - 👀 I’m interested in Mobile App Development/ Software Development/ Web Development
 - 🤔 I’m looking for help with ... Flutter,Java,Node JS
 - 💬 Ask me about Regarding Flutter 
-- 📫 How to reach me: [Gmail](ravipatil6596@gmail.com) , [LinkedIn](https://www.linkedin.com/in/ravindra-patil-789570194/)
+- 📫 How to reach me: [Gmail](https://mail.google.com/mail/u/0/?pli=1#inbox) , [LinkedIn](https://www.linkedin.com/in/ravindra-patil-789570194/)
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
