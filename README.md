@@ -1,9 +1,5 @@
 ### Hello I’m currently working on Flutter 👋
 
-<!--
-**ravindra6596/ravindra6596** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Flutter | Node JS
 - 🌱 I’m currently learning State Management,Provider,GetX in flutter
@@ -14,4 +10,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: [Gmail](ravipatil6596@gmail.com)[LinkedIn](https://www.linkedin.com/in/ravindra-patil-789570194/)
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
