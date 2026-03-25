@@ -20,18 +20,18 @@
 
 ### 🛠️ Tech Stack
 
-Languages
+**Languages :**
 Dart | JavaScript | TypeScript
 
-Frameworks & Tools
+**Frameworks & Tools :**
 Flutter | Node.js | Firebase | REST APIs | GraphQL
 
-State Management
+**State Management :**
 BLoC | Provider | GetX
 
-Database
+**Database :**
 Firebase | MySQL | PostgreSQL | MongoDB
 
-Tools
-Git | GitHub | Android Studio | VS Code | Postman | Firebase Console
+**Tools :**
+Git | GitHub | Android Studio | VS Code | Postman | Firebase Console | Play Store Console
 
