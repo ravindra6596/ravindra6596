@@ -13,7 +13,7 @@
 - 👀 I’m interested in Mobile App Development, Software Development, and Backend Development
 - 🤔 I’m looking for help with ... Flutter, Node JS
 - 💬 Ask me about Flutter, Node.js, REST API integration, state management (BLoC, Provider, GetX), and performance optimization.
-- 📫 How to reach me: [Gmail](mailto:ravipatil6596@gmail.com) , [LinkedIn](https://www.linkedin.com/in/ravindra-patil-789570194/) , [Twitter](https://twitter.com/ravipatil6596)
+- 📫 How to reach me: [Gmail](mailto:ravipatil6596@gmail.com) , [LinkedIn](https://www.linkedin.com/in/ravindra-patil-789570194/) , [Twitter](https://twitter.com/ravipatil6596), [Portfolio App](https://play.google.com/store/apps/details?id=com.unicornwings.ravi_patil_portfolio), [Portfolio Web](https://ravi-patil-portfolio.vercel.app/)
 - 😄 Pronouns: Ravi
 - ⚡ I enjoy building scalable apps and solving real-world problems through code using Flutter and Node.js.
 
