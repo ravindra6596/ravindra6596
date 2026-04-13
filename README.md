@@ -1,21 +1,21 @@
-### Hello, I'm Ravindra Patil, currently working on Flutter 👋
+### Hello, I'm Ravindra Patil, currently working on Flutter | Node JS 👋
 
 
 🚀 Flutter Developer | 5.9+ Years Experience
 
-📱 Building Scalable Cross-Platform Mobile Applications
+📱 Building scalable cross-platform mobile applications with Flutter and Node.js, focused on performance and real-world problem solving.
 
 ### 🧑‍💻 About Me
 
 - 🔭 I’m currently working on Flutter & Node.js applications
 - 🌱 I’m currently exploring advanced Flutter concepts, Clean Architecture, and scalable app development
-- 👯 I’m open to collaborating on Flutter and cross-platform mobile app projects
+- 👯 I’m open to collaborating on Flutter, cross-platform mobile app projects, and Node.js backend development. I enjoy building scalable applications and working on full-stack systems using modern technologies.
 - 👀 I’m interested in Mobile App Development, Software Development, and Backend Development
-- 🤔 I’m looking for help with ... Flutter,Java,Node JS
-- 💬 Ask me about Flutter, REST API integration, state management (BLoC, Provider, GetX), and performance optimization
+- 🤔 I’m looking for help with ... Flutter, Node JS
+- 💬 Ask me about Flutter, Node.js, REST API integration, state management (BLoC, Provider, GetX), and performance optimization.
 - 📫 How to reach me: [Gmail](mailto:ravipatil6596@gmail.com) , [LinkedIn](https://www.linkedin.com/in/ravindra-patil-789570194/) , [Twitter](https://twitter.com/ravipatil6596)
 - 😄 Pronouns: Ravi
-- ⚡ I enjoy building scalable apps and solving real-world problems through code
+- ⚡ I enjoy building scalable apps and solving real-world problems through code using Flutter and Node.js.
 
 
 ### 🛠️ Tech Stack
@@ -24,7 +24,7 @@
 Dart | JavaScript | TypeScript
 
 **Frameworks & Tools :**
-Flutter | Node.js | Firebase | REST APIs | GraphQL
+Flutter | Node.js | Firebase | REST APIs
 
 **State Management :**
 BLoC | Provider | GetX
